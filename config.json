@@ -1,0 +1,6 @@
+{
+  "resolution_ratio": 0.25,
+  "mqtt_server": "localhost",
+  "source": "video.mp4",
+  "detect_topic": "INCHEON_HEL/SL_ODS/UAM_VIEW_INFO"
+}
